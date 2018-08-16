@@ -1,0 +1,20 @@
+C:\Users\Priscilla\source\repos\Km - Milhas\Km - Milhas\obj\Debug\Km - Milhas.csprojAssemblyReference.cache
+C:\Users\Priscilla\source\repos\Km - Milhas\Km - Milhas\obj\Debug\Km___Milhas.frmPrincipal.resources
+C:\Users\Priscilla\source\repos\Km - Milhas\Km - Milhas\obj\Debug\Km___Milhas.Properties.Resources.resources
+C:\Users\Priscilla\source\repos\Km - Milhas\Km - Milhas\obj\Debug\Km - Milhas.csproj.GenerateResource.cache
+C:\Users\Priscilla\source\repos\Km - Milhas\Km - Milhas\obj\Debug\Km - Milhas.csproj.CoreCompileInputs.cache
+C:\Users\Priscilla\source\repos\Km - Milhas\Km - Milhas\bin\Debug\Km - Milhas.exe.config
+C:\Users\Priscilla\source\repos\Km - Milhas\Km - Milhas\bin\Debug\Km - Milhas.exe
+C:\Users\Priscilla\source\repos\Km - Milhas\Km - Milhas\bin\Debug\Km - Milhas.pdb
+C:\Users\Priscilla\source\repos\Km - Milhas\Km - Milhas\obj\Debug\Km - Milhas.exe
+C:\Users\Priscilla\source\repos\Km - Milhas\Km - Milhas\obj\Debug\Km - Milhas.pdb
+C:\Users\Priscilla\Desktop\Treino POO\9 Km - Milhas\Km - Milhas\bin\Debug\Km - Milhas.exe.config
+C:\Users\Priscilla\Desktop\Treino POO\9 Km - Milhas\Km - Milhas\bin\Debug\Km - Milhas.exe
+C:\Users\Priscilla\Desktop\Treino POO\9 Km - Milhas\Km - Milhas\bin\Debug\Km - Milhas.pdb
+C:\Users\Priscilla\Desktop\Treino POO\9 Km - Milhas\Km - Milhas\obj\Debug\Km - Milhas.csprojAssemblyReference.cache
+C:\Users\Priscilla\Desktop\Treino POO\9 Km - Milhas\Km - Milhas\obj\Debug\Km___Milhas.frmPrincipal.resources
+C:\Users\Priscilla\Desktop\Treino POO\9 Km - Milhas\Km - Milhas\obj\Debug\Km___Milhas.Properties.Resources.resources
+C:\Users\Priscilla\Desktop\Treino POO\9 Km - Milhas\Km - Milhas\obj\Debug\Km - Milhas.csproj.GenerateResource.cache
+C:\Users\Priscilla\Desktop\Treino POO\9 Km - Milhas\Km - Milhas\obj\Debug\Km - Milhas.csproj.CoreCompileInputs.cache
+C:\Users\Priscilla\Desktop\Treino POO\9 Km - Milhas\Km - Milhas\obj\Debug\Km - Milhas.exe
+C:\Users\Priscilla\Desktop\Treino POO\9 Km - Milhas\Km - Milhas\obj\Debug\Km - Milhas.pdb
